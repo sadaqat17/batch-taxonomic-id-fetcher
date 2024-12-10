@@ -42,3 +42,16 @@ The output CSV file will have two columns:
 - **Taxonomic ID**: The corresponding NCBI Taxonomic ID, or `Not Found` if the species/genus is not in the database.
 
 Example output:
+Species/Genus,Taxonomic ID Homo sapiens,9606 Canis lupus,9612 Felis catus,9685 Panthera leo,9689
+
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Contributions
+Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit pull requests.
+
+## Acknowledgments
+- Developed using the [Biopython](https://biopython.org/) library.
+- Data retrieved from the [NCBI Taxonomy Database](https://www.ncbi.nlm.nih.gov/taxonomy).
+
