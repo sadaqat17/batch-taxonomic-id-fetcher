@@ -14,7 +14,7 @@ This repository contains a Python script to fetch taxonomic IDs from NCBI in bat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/batch-taxonomic-id-fetcher.git
+   git clone https://github.com/sadaqat17/batch-taxonomic-id-fetcher.git
    cd batch-taxonomic-id-fetcher
    ```
 2. Install the required Python library:
